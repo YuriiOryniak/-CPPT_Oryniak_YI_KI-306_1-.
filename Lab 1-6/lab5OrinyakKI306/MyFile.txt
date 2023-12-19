@@ -1,0 +1,1 @@
+Result of the function y = sin(x) / tan(4x) = 0.2069458395820019
